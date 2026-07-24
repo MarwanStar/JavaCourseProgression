@@ -26,7 +26,7 @@ public class Ex3ShoppingCart {
 
         cost = price * quantity;
 
-        if(quantity>1){
+        if(quantity>1){ // This is mostly for style points I thought it was fun
             System.out.println("You have purchased " + quantity + " " + item + "s for: " + cost);
         } else {
             System.out.println("You have purchased " + quantity + " " + item + "for: " + cost);
