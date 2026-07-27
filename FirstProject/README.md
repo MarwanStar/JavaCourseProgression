@@ -4,4 +4,7 @@ This is my repository of all the excersizes in [Bro Code's tutorial on Java](htt
 
 A few sections were skipped since I am already familiar with programming:
 1. 12 - nested if statements
+2. 15 - weighter converter
+3. 19 - calculator program
+4. 20 - logical operators
 
